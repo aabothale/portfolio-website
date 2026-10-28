@@ -1,0 +1,5 @@
+:HL["/portfolio-website/_next/static/css/c69c2464cffe018e.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600&display=swap","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"yYelmgJ32YgQDUhvRCkTY","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
